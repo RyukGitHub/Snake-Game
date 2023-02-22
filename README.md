@@ -18,6 +18,8 @@ Score will be recorded with respective to eating apples.
 
 GitHub : [RyukGitHub](https://github.com/RyukGitHub)
 
+## Note : Edit image path in code.
+
 ## Conclusion
 
 If you think my project is good👏 . Give a Star⭐ encouragement.
