@@ -16,7 +16,7 @@ Score will be recorded with respective to eating apples.
 
 ## Author
 
-GitHub [RyukGitHub](https://github.com/RyukGitHub)
+GitHub : [RyukGitHub](https://github.com/RyukGitHub)
 
 ## Conclusion
 
