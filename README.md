@@ -14,6 +14,10 @@ Score will be recorded with respective to eating apples.
 4. to move down direction  : use ↓ key.
 5. to move up direction    : use ↑ key.
 
+
+*NOTE :* Correct file paths if neccessary and add your own favicon.
+
+
 ## Author
 
 GitHub : [RyukGitHub](https://github.com/RyukGitHub)
